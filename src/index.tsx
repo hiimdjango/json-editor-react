@@ -1,4 +1,3 @@
-import 'antd/dist/antd.min.css'
 import './styles/index.less'
 import React, { useEffect, useState } from 'react'
 import cloneDeep from 'lodash.clonedeep'
