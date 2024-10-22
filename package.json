@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -37,14 +37,14 @@
   },
   "name": "@hiimdjango/json-editor-react",
   "author": "hiimdjango-forked-from-baixiaojian",
-  "module": "dist/react-json-editor-ui.esm.js",
+  "module": "dist/json-editor-react.esm.js",
   "size-limit": [
     {
-      "path": "dist/react-json-editor-ui.cjs.production.min.js",
+      "path": "dist/json-editor-react.cjs.production.min.js",
       "limit": "10 KB"
     },
     {
-      "path": "dist/react-json-editor-ui.esm.js",
+      "path": "dist/json-editor-react.esm.js",
       "limit": "10 KB"
     }
   ],
